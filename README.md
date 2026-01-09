@@ -29,3 +29,8 @@ Proyecto-Instacart/
 - Jupyter Notebook
 
 ``` 
+## Enlaces del Proyecto
+
+- **Repositorio:** https://github.com/karlamedin551-byte/Proyecto-Instacart
+- **Notebook principal:** [instacart_analysis.ipynb](./instacart_analysis.ipynb)
+- **Datos originales:** [Instacart Dataset](https://www.kaggle.com/c/instacart-market-basket-analysis)
